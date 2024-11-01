@@ -1,5 +1,5 @@
 [project]
-name = "time-series-forecasting"
+name = "kaggle-store-sales"
 version = "0.1.0"
 description = "Time Series forecasting using TensorFlow"
 readme = "README.md"
